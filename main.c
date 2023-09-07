@@ -20,7 +20,7 @@
         printf("Tempo gasto de CPU: %f segundos.\n", cpu_time_used);
     }
 
-
+//função principal
     int main() {
         struct timeval inicio;
         clock_t start;
