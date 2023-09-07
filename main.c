@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <sys/time.h>
 #include <time.h>
-
+//função tempo
     void tempo(struct timeval inicio,clock_t start){
         struct timeval fim;
         clock_t end;
